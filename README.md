@@ -5,7 +5,7 @@
 
 <!-- Skills Section -->
 <div>
-  <p>Proficient in:</p>
+  <h3>Proficient in:</h3>
   <ul>
     <li>Accomplished Mobile App Developer skilled in creating intuitive and visually appealing user interfaces.</li>
     <li>Proficient in React Native, to develop seamless and engaging mobile applications.</li>
