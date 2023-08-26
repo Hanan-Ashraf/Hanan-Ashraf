@@ -120,8 +120,8 @@
 </div>
 
 - [![Microsoft Office Specialist Word 2016](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20Word%202016-Blue?style=flat&logoWidth=40&color=007bff)](https://www.credly.com/badges/eff5cda7-3543-42d2-82e8-d0f90d950615/public_url)
-- [![Microsoft Office Specialist Excel 2016](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20Excel%202016-Blue?style=flat&logoWidth=40&color=007bff)](https://www.credly.com/badges/d1b7b378-a519-4551-b4f8-7a58c65c5b5a/public_url)
-- [![Microsoft Office Specialist PowerPoint 2016](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20PowerPoint%202016-Blue?style=flat&logoWidth=40&color=007bff)](https://www.credly.com/badges/1a588161-cefa-4bbd-a799-eb3084357575/public_url)
+- [![Microsoft Office Specialist Excel 2016](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20Excel%202016-Blue?style=flat&logoWidth=40&color=1f7043)](https://www.credly.com/badges/d1b7b378-a519-4551-b4f8-7a58c65c5b5a/public_url)
+- [![Microsoft Office Specialist PowerPoint 2016](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20PowerPoint%202016-Blue?style=flat&logoWidth=40&color=d04525)](https://www.credly.com/badges/1a588161-cefa-4bbd-a799-eb3084357575/public_url)
 
 
 <!-- LinkedIn Section -->
