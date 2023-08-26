@@ -42,7 +42,6 @@
 <!-- Mobile Dev Tools Section -->
 <div>
   <h3>📱 MOBILE DEV TOOLS</h3>
-  <p>Explore my mobile projects:</p>
   <p>
     <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
