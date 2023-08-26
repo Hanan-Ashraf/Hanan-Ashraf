@@ -133,6 +133,16 @@
   </a>
 </div>
 
+<!-- Gmail Section -->
+<div>
+  <h3>📧 Gmail</h3>
+  <p>Feel free to reach out via email:</p>
+  <a href="mailto:hananashraf1011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+
 <!-- Footer Section -->
 <div>
   <h3>⚡ Feel free to explore more about me and my projects <a href="https://github.com/Hanan-Ashraf">here</a>!</h3>
