@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1>Hi there, I'm Hanan Ashraf!<img src="https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b9529olmdz1gpr4h0gwqin86ppj4xvjq654k9tyur6z8&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Moving Hand" width="50" height="50">
 </h1>
-<h2>A Mobile App Developer</h2>
+<h2>A Passionate Mobile App Developer</h2>
 
 <!-- Skills Section -->
 <div>
