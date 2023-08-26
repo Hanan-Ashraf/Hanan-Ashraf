@@ -16,7 +16,7 @@
 
 <!-- GitHub Streak and Contributions Section -->
 <div>
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/Hanan-Ashraf">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanan-Ashraf&theme=highcontrast&layout=compact" alt="GitHub Streak" />
   </a>
 </div>
