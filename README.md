@@ -7,10 +7,11 @@
 <div>
   <p>Proficient in:</p>
   <ul>
-    <li>HTML, CSS, and JavaScript for building dynamic and responsive interfaces.</li>
-    <li>React Native development for creating cross-platform mobile applications.</li>
-    <li>UI frameworks like Material-UI and Tailwind CSS for crafting polished user interfaces.</li>
-    <li>State management with Redux for efficient and organized application data flow.</li>
+    <li>Accomplished Mobile App Developer skilled in creating intuitive and visually appealing user interfaces.</li>
+    <li>Proficient in React Native, to develop seamless and engaging mobile applications.</li>
+    <li>Successful portfolio includes projects like the ToDo React Native Mobile App, Clothing Fiesta Desktop App, and Navigation/Drive Thru System Console Apps.</li>
+    <li>Versatile problem-solving approach backed by expertise in C/C++ and C#.</li>
+    <li>Hold the distinction of being a Microsoft Office Specialist, certified in Word, Excel, and PowerPoint.</li>
   </ul>
 </div>
 
@@ -21,27 +22,10 @@
   </a>
 </div>
 
-<!-- Web Dev Tools Section -->
-<div>
-  <h3>🕸️ WEB DEV TOOLS</h3>
-  <p>Check out my work:</p>
-  <p>
-    <a href="https://github.com/Hanan-Ashraf">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </a>
-    <!-- Add more badges for additional skills -->
-  </p>
-</div>
-
 <!-- Mobile Dev Tools Section -->
 <div>
-  <h3>📱 MOBILE DEV TOOLS</h3>
+  <h3>📱 MOBILE APP DEV TOOLS</h3>
+  <p>Empowering seamless mobile app development:</p>
   <p>
     <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -57,6 +41,25 @@
       </a>
   </p>
 </div>
+
+<!-- Web Dev Tools Section -->
+<div>
+  <h3>🕸️ WEB DEV TOOLS</h3>
+  <p>Worked on:</p>
+  <p>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    </a>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    </a>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </a>
+    <!-- Add more badges for additional skills -->
+  </p>
+</div>
+
 
 <!-- Database Section -->
 <div>
