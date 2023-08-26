@@ -15,7 +15,7 @@
 </div>
 
 <!-- GitHub Streak and Contributions Section -->
-<div>
+<div style="width: 100%;">
   <a href="https://github.com/Hanan-Ashraf">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanan-Ashraf&theme=highcontrast&layout=compact" alt="GitHub Streak" />
   </a>
@@ -49,8 +49,67 @@
     <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
     </a>
+    <a href="https://github.com/Hanan-Ashraf">
+    <img src="https://img.shields.io/badge/Effective_API_Integration-43A047?style=for-the-badge" alt="Effective API Integration" />
+      </a>
+    <a href="https://github.com/Hanan-Ashraf">
+    <img src="https://img.shields.io/badge/Optimal_Responsiveness-F7931E?style=for-the-badge" alt="Optimal Responsiveness" />
+      </a>
   </p>
 </div>
+
+<!-- Database Section -->
+<div>
+  <h3>🗄️ DATABASE</h3>
+</div>
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&width=20)](https://github.com/Hanan-Ashraf)
+
+<!-- Development Tools Section -->
+<div>
+  <h3>🛠️ DEVELOPMENT TOOLS & WORKFLOW</h3>
+  <p>Streamlining the development process with essential tools:</p>
+  <p>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    </a>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+    </a>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
+    </a>
+  </p>
+</div>
+
+<!-- Design Tools Section -->
+<div>
+  <h3>🎨 DESIGN TOOLS</h3>
+  <p>Bringing ideas to life with powerful design tools:</p>
+  <p>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+    </a>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+    </a>
+  </p>
+</div>
+
+<!-- Code Editor Section -->
+
+<div>
+  <h3>📝 CODE EDITOR</h3>
+  <p>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+    </a>
+  </p>
+  </div>
+
 
 <!-- Certifications Section -->
 <div>
