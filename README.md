@@ -31,6 +31,9 @@
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
     </a>
     <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+    </a>
+    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
     </a>
     <a href="https://github.com/Hanan-Ashraf">
@@ -98,6 +101,20 @@
     </a>
     <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+    </a>
+  </p>
+</div>
+
+<!-- NPM and Yarn Section -->
+<div>
+  <h3>📦 PACKAGE MANAGERS</h3>
+  <p>Managing dependencies with:</p>
+  <p>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
+    </a>
+    <a href="https://github.com/Hanan-Ashraf">
+      <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn" />
     </a>
   </p>
 </div>
