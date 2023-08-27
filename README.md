@@ -30,7 +30,7 @@
   <p>Empowering seamless mobile app development:</p>
   <p>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/React%20Native%20Skia-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native Skia" />
+      <img src="https://img.shields.io/badge/React%20Native%20Skia-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native Skia" />
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
       <img src="https://img.shields.io/badge/Effective_API_Integration-43A047?style=for-the-badge" alt="Effective API Integration" />
       <img src="https://img.shields.io/badge/Optimal_Responsiveness-F7931E?style=for-the-badge" alt="Optimal Responsiveness" />
