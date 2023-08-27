@@ -33,9 +33,6 @@
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
     </a>
     <a href="https://github.com/Hanan-Ashraf">
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
     </a>
     <a href="https://github.com/Hanan-Ashraf">
