@@ -29,21 +29,11 @@
   <h3>📱 MOBILE APP DEV TOOLS</h3>
   <p>Empowering seamless mobile app development:</p>
   <p>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/React%20Native%20Skia-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native Skia" />
-  </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
-    <img src="https://img.shields.io/badge/Effective_API_Integration-43A047?style=for-the-badge" alt="Effective API Integration" />
-      </a>
-    <a href="https://github.com/Hanan-Ashraf">
-    <img src="https://img.shields.io/badge/Optimal_Responsiveness-F7931E?style=for-the-badge" alt="Optimal Responsiveness" />
-      </a>
+      <img src="https://img.shields.io/badge/Effective_API_Integration-43A047?style=for-the-badge" alt="Effective API Integration" />
+      <img src="https://img.shields.io/badge/Optimal_Responsiveness-F7931E?style=for-the-badge" alt="Optimal Responsiveness" />
   </p>
 </div>
 
@@ -52,16 +42,9 @@
   <h3>🕸️ WEB DEV TOOLS</h3>
   <p>Worked on:</p>
   <p>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </a>
-    <!-- Add more badges for additional skills -->
   </p>
 </div>
 
@@ -71,25 +54,17 @@
   <h3>🗄️ DATABASE</h3>
 </div>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&width=20)](https://github.com/Hanan-Ashraf)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&width=20)
 
 <!-- Development Tools Section -->
 <div>
   <h3>🛠️ DEVELOPMENT TOOLS & WORKFLOW</h3>
   <p>Streamlining the development process with essential tools:</p>
   <p>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-    </a>
   </p>
 </div>
 
@@ -98,12 +73,8 @@
   <h3>🎨 DESIGN TOOLS</h3>
   <p>Bringing ideas to life with powerful design tools:</p>
   <p>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-    </a>
   </p>
 </div>
 
@@ -112,12 +83,8 @@
   <h3>📦 PACKAGE MANAGERS</h3>
   <p>Managing dependencies with:</p>
   <p>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
-    </a>
   </p>
 </div>
 
@@ -126,12 +93,8 @@
 <div>
   <h3>📝 CODE EDITOR & IDE</h3>
   <p>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-    </a>
-    <a href="https://github.com/Hanan-Ashraf">
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-    </a>
   </p>
   </div>
 
