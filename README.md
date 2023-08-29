@@ -9,7 +9,7 @@
   <ul>
     <li>Accomplished Mobile App Developer skilled in creating intuitive and visually appealing user interfaces.</li>
     <li>Proficient in React Native, to develop seamless and engaging mobile applications.</li>
-    <li>Successful portfolio includes projects like the ToDo React Native Mobile App, Clothing Fiesta Desktop App, and Navigation/Drive Thru System Console Apps.</li>
+    <li>Successful portfolio includes projects like the ToDo React Native Mobile App, Clothing Fiesta Desktop Application, and Navigation/Drive Thru System Console Apps.</li>
     <li>Versatile problem-solving approach backed by expertise in C/C++ and C#.</li>
     <li>Hold the distinction of being a Microsoft Office Specialist, certified in Word, Excel, and PowerPoint.</li>
   </ul>
