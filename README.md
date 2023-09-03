@@ -19,7 +19,7 @@
 <div style="width: 100%;" align="center">
   <br>
   <a href="https://github.com/Hanan-Ashraf">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanan-Ashraf&theme=blueberry-duo&layout=compact" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanan-Ashraf&theme=blueberry-duo&exclude_days=sat,sun&layout=compact" alt="GitHub Streak" />
   </a>
   <br>
 </div>
