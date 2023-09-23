@@ -32,6 +32,7 @@
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
       <img src="https://img.shields.io/badge/React%20Native%20Skia-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native Skia" />
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Effective_API_Integration-43A047?style=for-the-badge" alt="Effective API Integration" />
       <img src="https://img.shields.io/badge/Optimal_Responsiveness-F7931E?style=for-the-badge" alt="Optimal Responsiveness" />
   </p>
@@ -104,6 +105,7 @@
   <h3>🏆 Certifications</h3>
 </div>
 
+- [![HTML, CSS, React Certification Course](https://img.shields.io/badge/Udemy%20Certification%20for%20HTML%20CSS%20React%20Course-Purple?style=for-the-badge&logoWidth=40&color=5ed4f3)](ude.my/UC-9d60861d-4506-43aa-81cc-e7b8bbe949fe)
 - [![Microsoft Office Specialist Word 2016](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20Word%202016-Blue?style=for-the-badge&logoWidth=40&color=007bff)](https://www.credly.com/badges/eff5cda7-3543-42d2-82e8-d0f90d950615/public_url)
 - [![Microsoft Office Specialist Excel 2016](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20Excel%202016-Blue?style=for-the-badge&logoWidth=40&color=1f7043)](https://www.credly.com/badges/d1b7b378-a519-4551-b4f8-7a58c65c5b5a/public_url)
 - [![Microsoft Office Specialist PowerPoint 2016](https://img.shields.io/badge/Microsoft%20Office%20Specialist%20PowerPoint%202016-Blue?style=for-the-badge&logoWidth=40&color=d04525)](https://www.credly.com/badges/1a588161-cefa-4bbd-a799-eb3084357575/public_url)
