@@ -21,12 +21,11 @@
   <a href="https://github.com/Hanan-Ashraf">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanan-Ashraf&theme=blueberry-duo&layout=compact&exclude_days=sun" alt="GitHub Streak" />
   </a>
-<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanan-Ashraf&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="muhammadabdullah660" width="300" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hanan-Ashraf&theme=nightowl&show_icons=true&locale=en" alt=muhammadabdullah660" width="400" /></p> -->
+<p><img align="right" src="https://blogs.sap.com/wp-content/uploads/2022/06/1325-code-fork-outline.gif" alt="gif-img" height="200" /></p>
 
   <br>
-</div>
+  <br>
+  </div>
 
 <!-- Mobile Dev Tools Section -->
 <div>
