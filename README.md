@@ -116,12 +116,14 @@
 
 
 <!--Holopin Board-->
+<br>
 <div>
   <h3>🥇 Achievements</h3>
 </div>
 
 [![@hananashraf's Holopin board](https://holopin.me/hananashraf)](https://holopin.io/@hananashraf)
 
+<br>
 
 <!-- LinkedIn Section -->
 <div>
