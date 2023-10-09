@@ -120,7 +120,7 @@
   <h3>🥇 Achievements</h3>
 </div>
 
-[![@hananashraf's Holopin board](https://holopin.me/hananashraf)](https://holopin.io/@hananashraf)
+[![An image of @hananashraf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hananashraf)](https://holopin.io/@hananashraf)
 
 
 
