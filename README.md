@@ -117,7 +117,7 @@
 <!--Holopin Board-->
 <br>
 <div>
-  <h3>🥇 Achievements</h3>
+  <h3>🥇 Hacktoberfest 2023</h3>
 </div>
 
 [![An image of @hananashraf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hananashraf)](https://holopin.io/@hananashraf)
